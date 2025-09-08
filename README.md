@@ -1,2 +1,5 @@
-# javascript-exercicios-resolvidos
-Exercícios resolvidos do curso Bolsa Futuro Digital.
+# Repositório de Exercícios de JavaScript
+
+Bem-vindo à nossa coleção de exercícios resolvidos de JavaScript! 
+
+## Lista de Exercícios:
