@@ -6,7 +6,7 @@ Bem-vindo à nossa coleção de exercícios resolvidos de JavaScript!
 
 - `soma.js`: Uma função que retorna a soma de dois números.
 
-- `imc.js`: Cálculo do IMC - Índice de Massa Corporal.
+- `imc.js`: Cálculo do IMC (Índice de Massa Corporal).
 
 - `media-aproveitamento.js`: Cálculo da média de aproveitamento de um(a) aluno(a).
 
